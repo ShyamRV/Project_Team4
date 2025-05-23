@@ -14,6 +14,7 @@ This website includes:
 ## 💡 Features
 
 - Clean, responsive layout
+- vedanth aryan R
 - Contact form validation
 - Project highlights
 - Easy to customize
