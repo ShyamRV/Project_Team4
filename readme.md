@@ -33,3 +33,5 @@ This website includes:
 git clone https://github.com/ShyamRV/Project_Team4.git
 cd Project_Team4
 open index.html
+```
+### Copyright (c) 2025 Shyamji Pandey
