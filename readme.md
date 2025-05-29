@@ -1,6 +1,6 @@
 # Mini Portfolio Website
 
-This is a simple portfolio website created by **Shyam Pandey** to demonstrate HTML, CSS, and JavaScript integration for an SCM project.
+This is a simple portfolio website created by **Shyam Pandey** to demonstrate HTML, CSS, and JavaScript integration for an SCM project under team-4.
 
 ## 🔧 Project Setup
 
