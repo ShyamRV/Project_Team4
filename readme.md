@@ -30,6 +30,6 @@ This website includes:
 ## 🛠️ How to Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Project_TeamX.git
+git clone https://github.com/ShyamRV/Project_Team4.git
 cd Project_TeamX
 open index.html
