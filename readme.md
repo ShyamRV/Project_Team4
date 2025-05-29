@@ -31,5 +31,5 @@ This website includes:
 
 ```bash
 git clone https://github.com/ShyamRV/Project_Team4.git
-cd Project_TeamX
+cd Project_Team4
 open index.html
