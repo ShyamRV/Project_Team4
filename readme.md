@@ -27,6 +27,12 @@ This website includes:
 | script | JavaScript Logic |
 | readme | Project Docs     |
 
+## 👥 Team Members
+
+- **Shyamji Pandey** – Backend  
+- **Kunal Chandnani** – Frontend  
+- **Vedant Aryan** – Content & Frontend 
+
 ## 🛠️ How to Run
 
 ```bash
